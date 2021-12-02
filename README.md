@@ -34,4 +34,4 @@ Species classification expansion - Moving forward, we would like to expand our m
 
 Specific Human Impact Assessment - Right now, our model is looking for the lack of certain critical plant species to evaluate the consequences of human impact. A better solution would be to train a model to specifically look for the hallmarks of negative human activity in sensitive areas like evidence of logging, mining, or agriculture.
 
-Species Count - To make the moedl more robust, adding in the capacity to estimate the number of taget species present in an image would help with any enviornmental site assessment. 
+Species Count - To make the model more robust, adding in the capacity to estimate the number of taget species present in an image would help with any enviornmental site assessment. 
