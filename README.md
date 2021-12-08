@@ -21,19 +21,19 @@ Before any image augmentation was done, the images were split into a training se
 
 - Simple Baseline Model
 - Convolutional Neural Network with MaxPooling
-- Convolutional Neural Netowrk with Maxpooling, Early Stop, and Learning Rate Reduction
+- Convolutional Neural Network with Maxpooling, Early Stop, and Learning Rate Reduction
 - Convolutional Neural Network with Multiple Maxpooling, Early Stop, and Learning Rate Reduction
 
 
 ## Evaluation
 
-After iternating through numerous models, we found that a CNN with 11 layers that also implemented a learning rate reduction function performed the best across all metrics. We looked to ensure that our critical metric, precision, was performing as high as possible. In this model we acheived a precision score of 99.73% as well as a recall score of 99.70%, with an overall accuracy of 99.57%. 
+After iterating through numerous models, we found that a CNN with 11 layers that also implemented a learning rate reduction function performed the best across all metrics. We looked to ensure that our critical metric, precision, was performing as high as possible. In this model we achieved a precision score of 99.73% as well as a recall score of 99.70%, with an overall accuracy of 99.57%. 
 
 ![](images/FinalResults.JPG)
 
 ## Conclusion
 
-Our final model performs very well on unseen data and we are highly confident that our model is generalizable to uneen photos and would be an effect tool for the Mexican Government to begin their environmental site assessments using drones. 
+Our final model performs very well on unseen data and we are highly confident that our model is able to be utilized on unseen photos and would be an effective tool for the Mexican Government to begin their environmental site assessments using drones. 
 
 ## Next Steps
 
@@ -41,7 +41,7 @@ Species classification expansion - Moving forward, we would like to expand our m
 
 Specific Human Impact Assessment - Right now, our model is looking for the lack of certain critical plant species to evaluate the consequences of human impact. A better solution would be to train a model to specifically look for the hallmarks of negative human activity in sensitive areas like evidence of logging, mining, or agriculture.
 
-Species Count - To make the model more robust, adding in the capacity to estimate the number of taget species present in an image would help with any enviornmental site assessment. 
+Species Count - To make the model more robust, adding in the capacity to estimate the number of target species present in an image would help with any environmental site assessment. 
 
 ## Repository Navigation
 
