@@ -1,4 +1,4 @@
-# Aerial Cactus Identification
+# Aerial Cactus Identification Using Deep Learning
 ![](images/dronecacti.jpg)
 ## Overview
 
@@ -17,12 +17,19 @@ Our images have been previously resized from the original images so no resizing 
 ![](images/class-imbal.JPG)
 
 ## Modeling
-Our first step was to pre-process the images before putting them through our models. This processed involved scaling the images down for ease of processing and implementing data augmentation to help deal with the class imbalance. The images were flipped vertically and horizontally. After preprocesig, our models were put through CNNs and learning rate reduction techniques were implemented to improve the training process. The model's performance was evaluated which informed any changes made.
+Before any image augmentation was done, the images were split into a training set and a validation set. Our first step was to pre-process the images in the training and validation sets before putting them through our models. This process involved scaling the images down for ease of processing and implementing data augmentation to help deal with the class imbalance. The images were flipped vertically and horizontally. After preprocessing, our models were put through CNNs and learning rate reduction techniques were implemented to improve the training process. The model's performance was evaluated which informed any changes made. I ran 4 different types of models that were evaluated on the validation set.
+
+- Simple Baseline Model
+- Convolutional Neural Network with MaxPooling
+- Convolutional Neural Netowrk with Maxpooling, Early Stop, and Learning Rate Reduction
+- Convolutional Neural Network with Multiple Maxpooling, Early Stop, and Learning Rate Reduction
 
 
 ## Evaluation
 
-After iternating through numerous models, we found that a CNN with 11 layers that also implemented a learning rate reduction function performed the best across all metrics. We looked to ensure that our critical metric, precision, was performing as high as possible. In this model we acheived a precision score of 99.65% as well as a recall score of 99.54%, with an overall accuracy of 99.40%. 
+After iternating through numerous models, we found that a CNN with 11 layers that also implemented a learning rate reduction function performed the best across all metrics. We looked to ensure that our critical metric, precision, was performing as high as possible. In this model we acheived a precision score of 99.73% as well as a recall score of 99.70%, with an overall accuracy of 99.57%. 
+
+![](images/FinalResults)
 
 ## Conclusion
 
@@ -35,3 +42,14 @@ Species classification expansion - Moving forward, we would like to expand our m
 Specific Human Impact Assessment - Right now, our model is looking for the lack of certain critical plant species to evaluate the consequences of human impact. A better solution would be to train a model to specifically look for the hallmarks of negative human activity in sensitive areas like evidence of logging, mining, or agriculture.
 
 Species Count - To make the model more robust, adding in the capacity to estimate the number of taget species present in an image would help with any enviornmental site assessment. 
+
+## Repository Navigation
+
+Notebooks
+
+- All notebook were run using Kaggle and can be found here
+- Final notebook can be found on Kaggle or Github
+- Original Data can be found here
+- A pdf of the presentation can be found here
+
+
