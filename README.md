@@ -48,7 +48,7 @@ Species Count - To make the model more robust, adding in the capacity to estimat
 Notebooks
 
 - All notebook were run using Kaggle and can be found [here](https://www.kaggle.com/houleyemballo/code)
-- Final notebook can be found on [Kaggle](https://www.kaggle.com/houleyemballo/aerial-cactus-imaging-modeling)
+- Final notebook can be found on [Kaggle](https://www.kaggle.com/houleyemballo/aerial-cactus-imaging-modeling) or [Github]
 - Original Data can be found [here](https://www.kaggle.com/irvingvasquez/cactus-aerial-photos)
 - A pdf of the presentation can be found [here](https://github.com/houleyemballo/AerialCactusIdentification/blob/main/Aerial%20Cactus%20Imaging%20.pdf)
 
