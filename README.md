@@ -54,3 +54,11 @@ Notebooks
 
 ![](images/repo.JPG)
 
+## Research Citiations
+
+- https://www.sciencedirect.com/science/article/abs/pii/S1574954119300895?via%3Dihub
+- https://jivg.org/research-projects/vigia/
+- https://www.researchgate.net/publication/237166397_Biotic_interactions_and_the_population_dynamics_of_the_long-lived_columnar_cactus_Neobuxbaumia_tetetzo_in_the_Tehuacan_Valley_Mexico
+- https://www.jstor.org/stable/3235892
+- https://www.nationalgeographic.org/encyclopedia/keystone-species/
+- https://whc.unesco.org/en/list/1534
