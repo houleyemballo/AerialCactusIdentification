@@ -52,4 +52,10 @@ Notebooks
 - Original Data can be found [here](https://www.kaggle.com/irvingvasquez/cactus-aerial-photos)
 - A pdf of the presentation can be found [here](https://github.com/houleyemballo/AerialCactusIdentification/blob/main/Aerial%20Cactus%20Imaging%20.pdf)
 
-
+|--images                               <----Images used in ReadMe
+|--model_iterations			                <----All modeling done
+|--.gitignore				                    <----Files to be ignored
+|--Aerial Cactus Imaging.pdf 		        <----Final Presentation
+|--README.md				                    <----ReadMe file
+|--requirements.txt			                <----Environment requirements
+|--Aerial_Cactus_Imaging_Modeling.ipynb <----Final Notebook
