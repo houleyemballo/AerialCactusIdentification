@@ -48,8 +48,17 @@ Species Count - To make the model more robust, adding in the capacity to estimat
 Notebooks
 
 - All notebook were run using Kaggle and can be found [here](https://www.kaggle.com/houleyemballo/code)
-- Final notebook can be found on [Kaggle](https://www.kaggle.com/houleyemballo/aerial-cactus-imaging-modeling) or [Github]
+- Final notebook can be found on [Kaggle](https://www.kaggle.com/houleyemballo/aerial-cactus-imaging-modeling) or [Github](https://github.com/houleyemballo/AerialCactusIdentification/blob/main/aerial-cactus-imaging-modeling%20(1).ipynb)
 - Original Data can be found [here](https://www.kaggle.com/irvingvasquez/cactus-aerial-photos)
 - A pdf of the presentation can be found [here](https://github.com/houleyemballo/AerialCactusIdentification/blob/main/Aerial%20Cactus%20Imaging%20.pdf)
 
 ![](images/repo.JPG)
+
+## Research Citiations
+
+- https://www.sciencedirect.com/science/article/abs/pii/S1574954119300895?via%3Dihub
+- https://jivg.org/research-projects/vigia/
+- https://www.researchgate.net/publication/237166397_Biotic_interactions_and_the_population_dynamics_of_the_long-lived_columnar_cactus_Neobuxbaumia_tetetzo_in_the_Tehuacan_Valley_Mexico
+- https://www.jstor.org/stable/3235892
+- https://www.nationalgeographic.org/encyclopedia/keystone-species/
+- https://whc.unesco.org/en/list/1534
