@@ -27,7 +27,7 @@ Before any image augmentation was done, the images were split into a training se
 
 ## Evaluation
 
-After iterating through numerous models, we found that a CNN with 11 layers that also implemented a learning rate reduction function performed the best across all metrics. We looked to ensure that our critical metric, precision, was performing as high as possible. In this model we achieved a precision score of 99.69% as well as a recall score of 99.96%, with an overall accuracy of 99.73%. 
+After iterating through numerous models, we found that a CNN with 11 layers that also implemented a learning rate reduction function performed the best across all metrics. We looked to ensure that our critical metric, precision, was performing as high as possible. In this model we achieved a precision score of 99.69% as well as a recall score of 99.96%, with an overall accuracy of 99.74%. 
 
 ![](images/FinalResults.JPG)
 
